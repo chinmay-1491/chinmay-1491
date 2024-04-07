@@ -14,12 +14,13 @@
 
  Chess
 
-## 🚀 Languages and Tools:
+## 🚀 Languages, Tools and Softwares:
 
 <p align="left">   
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://icons8.com/icon/40669/c++"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a href="https://icons8.com/icon/40670/c-programming"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
+    <a href="https://www.python.org](https://www.latex-project.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ALaTeX_logo.svg&psig=AOvVaw3cyb43VU4ubMoEg_VNLFUi&ust=1712544271462000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDgktiKr4UDFQAAAAAdAAAAABAE"/> </a>
     
 </p>
 <br/>
@@ -33,9 +34,3 @@
 <a href = "https://twitter.com/Chinmay94658154"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=chinmaykulkarni19">
-</a>
-<a href="https://github.com/chinmaykulkarni19?tab=followers"><img src="https://img.shields.io/github/followers/chinmaykulkarni19?label=Followers&style=social" alt="GitHub Badge"></a>
